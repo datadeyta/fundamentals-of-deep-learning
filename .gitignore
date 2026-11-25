@@ -14,3 +14,6 @@
 .DS_Store
 *.log
 .env.local
+
+# venv specific to this local clone
+.venv/
